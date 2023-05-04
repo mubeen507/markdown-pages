@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/130965749/236134796-b0619096-307d-4256-855c-d3864e41a171.png)
+
 # **DevOps Core:**
 
 1. Fundamentals of DevOps

@@ -1,6 +1,4 @@
-
-
-
+![image](https://user-images.githubusercontent.com/130965749/236374627-8661df04-1060-4a8b-85d2-7de803c71021.png)
 ## **DevOps Core:**
 
 1. Fundamentals of DevOps
@@ -50,7 +48,7 @@ PostGres DB
 
 Software Development Life Cycle (Application Lifecycle Management)
 
-![](RackMultipart20230505-1-a3mbq7_html_bd153a9268111922.png)
+![image](https://user-images.githubusercontent.com/130965749/236374743-6200f058-3669-4ea9-a26a-44cd81655b90.png)
 
 **Analysis:**
 
@@ -150,14 +148,13 @@ The maintenance phase of the SDLC includes various tasks such as bug fixing, sec
 
 **SDLC Methodologies:**
 
-![](RackMultipart20230505-1-a3mbq7_html_489407bc50d71344.png)
+![image](https://user-images.githubusercontent.com/130965749/236374883-531ee8fc-a9c7-4013-8bcf-21b88ef10033.png)
 
 **Agile Methodology: (Value)**
 
-![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png)
+![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png) ![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png) ![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png)
-
+![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png) ![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png) ![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png)
 Iteration 1 Iteration 2 Iteration 3
 
 **LMS Application:**
@@ -189,7 +186,7 @@ SignIn
 
 Landing Page
 
-![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png)
+![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png)
 
 **Iteration : 2**
 
@@ -199,7 +196,7 @@ Resources
 
 Interviews
 
-![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png)
+![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png)
 
 **Iteration : 3**
 
@@ -207,14 +204,13 @@ Interviews
 - Assignments
 - Profile Page
 
-![](RackMultipart20230505-1-a3mbq7_html_3b3dcb562af44c2c.png)
+![image](https://user-images.githubusercontent.com/130965749/236374963-9a5a5387-c086-46fb-8da0-fc8181ab1cf5.png)
 
 **SCRUM Framework:**
 
-![](RackMultipart20230505-1-a3mbq7_html_3f976677467bcb7.png)
+![image](https://user-images.githubusercontent.com/130965749/236375193-8a3bd181-67d6-452a-8b21-e309e7d211b7.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_4e597c4740be49d1.png)
-
+![image](https://user-images.githubusercontent.com/130965749/236375356-e47c4f9f-c2c0-4abd-9389-52bbbdb9ded8.png)
 Scrum:
 
 **Product Backlog:**
@@ -274,14 +270,13 @@ Sprint: 4
 7. Full Stack Dev
 8. Tester (QA)
 9. Cloud DevOps Engineers -2
-
-![](RackMultipart20230505-1-a3mbq7_html_76ff419542bb07c3.png)
+![image](https://user-images.githubusercontent.com/130965749/236375454-f20aee7b-a9f6-4323-9507-634987c0f82f.png)
 
 **Epics – Large chunks of work that can be divided into stories**
 
-![](RackMultipart20230505-1-a3mbq7_html_dc8977db8607fc52.png)
+![image](https://user-images.githubusercontent.com/130965749/236375489-9633da95-457e-45c7-88ce-aab7badc83eb.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_bfbe939a03d52392.png)
+![image](https://user-images.githubusercontent.com/130965749/236375523-a2148b9b-fe29-4562-a6a1-1c0949067cb1.png)
 
 **First SetUP GITHUB Account:**
 
@@ -429,8 +424,7 @@ US 2: Nexus Integrations
 - Nexus Integration with Jenkins
 
 Capstone Project: LMS V2
-
-![](RackMultipart20230505-1-a3mbq7_html_a367f0629885dd4b.png)
+![image](https://user-images.githubusercontent.com/130965749/236375615-1c56b47b-920a-4b42-94f1-acb484f20c85.png)
 
 ## SSH keys are a pair of cryptographic keys used to authenticate and secure remote connections to a server or computer. The pair consists of a public key and a private key, which are mathematically related but cannot be derived from each other.
 
@@ -448,9 +442,8 @@ ssh-keygen
 
 A server is a computer or system that provides resources or services to other computers or systems over a network. Servers are typically more powerful and have more storage capacity than regular desktop computers, as they need to handle multiple requests simultaneously. They are also designed to run continuously without interruption.
 
-![](RackMultipart20230505-1-a3mbq7_html_ea31d05e9d077a71.png)
-
-![](RackMultipart20230505-1-a3mbq7_html_2831205ca22ed9c5.png)
+![image](https://user-images.githubusercontent.com/130965749/236375750-01861212-172d-4021-9ffc-3d8250cade39.png)
+![image](https://user-images.githubusercontent.com/130965749/236375777-04a29d6d-3e88-4fba-970d-6450872cab5b.png)
 
 # **Linux Basics**
 
@@ -468,7 +461,7 @@ A server is a computer or system that provides resources or services to other co
 
 ## **Linux Architecture:**
 
-![](RackMultipart20230505-1-a3mbq7_html_2f1c6fe1d34798bd.jpg)
+![image](https://user-images.githubusercontent.com/130965749/236375833-7adda3a0-1853-4991-aecc-38ec1ca0dc10.png)
 
 **Kernel & Shell**
 
@@ -486,7 +479,7 @@ The directory separator in Linux is the forward slash (/). When talking about di
 
 If you hear someone say "look in slash" or "that file is in slash," they are referring to the root directory.
 
-![](RackMultipart20230505-1-a3mbq7_html_260d72e7f9e8cd2b.png)
+![image](https://user-images.githubusercontent.com/130965749/236375898-b278560e-e6bc-48e0-abcf-a2c945c5cb92.png)
 
 **File System Structure**
 
@@ -499,7 +492,7 @@ If you hear someone say "look in slash" or "that file is in slash," they are ref
 - **var** - variable data produced by programs, like logs are stored
 - **opt -** The /opt directory houses optional or third party software.
 
-![](RackMultipart20230505-1-a3mbq7_html_14f1f800fdf3bd5c.png)
+![image](https://user-images.githubusercontent.com/130965749/236375937-01081ff5-388a-4421-a435-b9cdc1a0bd4d.png)
 
 ## **Navigation In CLI**
 
@@ -636,25 +629,24 @@ Version control is a system that helps to keep track of changes made to a set of
 
 version control is like a time machine that keeps a record of every change made to a file or set of files. This means that you can easily go back in time to a previous version of a file, compare different versions, and see who made what changes and when. It is commonly used by software developers, but it can also be used for any type of document or file that undergoes multiple revisions.
 
-![](RackMultipart20230505-1-a3mbq7_html_b6e8b5d97d3a3fc4.png)
+![image](https://user-images.githubusercontent.com/130965749/236376146-b8f26d93-29b8-4fcf-a531-ef5608ff2dde.png)
 
 - Version control allows for the ability to revert a document to a previous version.
 
-![](RackMultipart20230505-1-a3mbq7_html_1b77ebe4c8d42ca1.png)
-
-![](RackMultipart20230505-1-a3mbq7_html_8368d4e76212db81.png)
+![image](https://user-images.githubusercontent.com/130965749/236376180-0e0faa19-a409-4823-839d-2b22c00c59a9.png)
+![image](https://user-images.githubusercontent.com/130965749/236376210-530a37f6-c487-4752-a91f-2f98c903d52f.png)
 
 **Centralized Version Control System**
 
-![](RackMultipart20230505-1-a3mbq7_html_558f96d12ee6292c.png)
+![image](https://user-images.githubusercontent.com/130965749/236376252-67a054ee-5035-4f56-8e42-b7e3dd5f701e.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_de4b579c032877bf.png)
+![image](https://user-images.githubusercontent.com/130965749/236376284-262c7aab-4f16-4736-a0f8-aaba53c5fdf5.png)
 
 **Distributed Version Control System**
 
-![](RackMultipart20230505-1-a3mbq7_html_337225dade0a3afb.png)
+![image](https://user-images.githubusercontent.com/130965749/236376313-932af1ad-a359-4bc8-b378-4fb73bd9d679.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_501fa8ee17eaa817.png)
+![image](https://user-images.githubusercontent.com/130965749/236376342-210bba91-a9cb-4b3b-83d3-e3e87271dc8c.png)
 
 **WHAT IS GIT**
 
@@ -668,13 +660,13 @@ GitHub is a web-based platform that allows developers to store and share their c
 
 It provides a central place to store and manage code repositories, and offers tools for version control, bug tracking, code review
 
-![](RackMultipart20230505-1-a3mbq7_html_f523623ff8f5a18e.png)
+![image](https://user-images.githubusercontent.com/130965749/236376393-3181e5ae-2ae3-4542-ac02-78a90b607b2c.png)
 
 Repository is like a folder or directory that contains all the files and code related to a project, along with a record of every change made to those file
 
 ## **GIT WORKFLOW:**
 
-![](RackMultipart20230505-1-a3mbq7_html_bb8e707ed1404bd1.png)
+![image](https://user-images.githubusercontent.com/130965749/236376422-aebd09d5-ffe8-4e5a-916b-ae2f49fc86a6.png)
 
 **GIT Commands:**
 
@@ -722,9 +714,9 @@ git remote set-url origin git@github.com:digital-edify/lms-public.git
 
 - Branching means you diverge from the main line(master - working copy of application) of development and continue to do work without messing with that main line.
 
-![](RackMultipart20230505-1-a3mbq7_html_1f2149e606745a8c.png)
+![image](https://user-images.githubusercontent.com/130965749/236376467-05ca88ff-9c0b-4588-a6b8-aa6aea8c25ca.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_a2a1c8c25917dcab.png)
+![image](https://user-images.githubusercontent.com/130965749/236376492-9197b5ac-150e-4cc4-ad39-9976558aeb98.png)
 
 Git is maintained by Linux.
 
@@ -769,7 +761,7 @@ Github is focused on centralized source code hosting
 
 - For decades three-tier architecture was the prevailing architecture for client-server applications.
 
-![](RackMultipart20230505-1-a3mbq7_html_bdd8cf220aa34206.png)
+![image](https://user-images.githubusercontent.com/130965749/236376532-09f7d7b0-8c03-4d7f-aa69-44203543b973.png)
 
 **Presentation Tier / Client-Side Programming**
 
@@ -827,7 +819,7 @@ Therefore, port numbers allow multiple applications or services to coexist on th
 
 A web server is a software application that runs on a computer and provides a platform for serving web content over the internet. It receives HTTP requests from clients (e.g., web browsers) and returns the corresponding HTML pages and other assets. Examples of popular web servers include Apache and Nginx.
 
-![](RackMultipart20230505-1-a3mbq7_html_29c028cbef5f06a6.png)
+![image](https://user-images.githubusercontent.com/130965749/236376568-53d2a313-4449-4d01-a577-4a3cb19bff7b.png)
 
 **Why use Web Servers?**
 
@@ -844,10 +836,8 @@ Web servers are used for several reasons, including:
 
 - NGINX is pronounced as "engine-ex".
 - It is an open-source, fast, lightweight, and high-performance web server that can be used to serve static files.
-
-![](RackMultipart20230505-1-a3mbq7_html_259f3c05c020cbd0.png)
-
-![](RackMultipart20230505-1-a3mbq7_html_82135db0c5d44bb8.png)
+![image](https://user-images.githubusercontent.com/130965749/236376590-3251f72f-ad99-4877-884b-4cab6d6d0efc.png)
+![image](https://user-images.githubusercontent.com/130965749/236376612-dae22768-a4a3-4945-bd3a-37b841b88331.png)
 
 **Why use Nginx?**
 
@@ -946,11 +936,11 @@ This configuration block tells Nginx to listen for requests to the server named 
 
 /etc/nginx/sites-enabled/ - Symbolic links to the virtual host configurations in sites-available.
 
-![](RackMultipart20230505-1-a3mbq7_html_3036afec5e9e37c2.png)
+![image](https://user-images.githubusercontent.com/130965749/236376659-6817a433-ffb4-478e-a8ee-fffaea82b222.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_9f77823f98e0fed0.png)
+![image](https://user-images.githubusercontent.com/130965749/236376684-3aabd6ba-eb41-44a6-9a70-640688987dcb.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_6199ce1a091be47.png)
+![image](https://user-images.githubusercontent.com/130965749/236376731-69b5a3c2-a98d-46d8-8f34-ee67d89cd4b9.png)
 
 1. Setup Azure VM
 
@@ -1190,9 +1180,9 @@ Advantages of Microservice Architecture over Monolithic Architecture:
 
 https://docs.docker.com/engine/install/ubuntu/
 
-![](RackMultipart20230505-1-a3mbq7_html_dad07ba34cb3c1e8.png)
+![image](https://user-images.githubusercontent.com/130965749/236376808-ef862817-c89f-41ec-8a18-6d76644d927a.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_180cf7882229ecc2.png)
+![image](https://user-images.githubusercontent.com/130965749/236376831-1d86b8ba-b3a2-4c07-99e6-3a1219d63692.png)
 
 ##
 # **What are Hypervisors?**
@@ -1223,11 +1213,11 @@ There are two types of hypervisors, according to their place in the server virtu
 - Type 1 Hypervisors, also known as bare-metal or native.
 - Type 2 Hypervisors, also known as hosted hypervisors.
 
-![](RackMultipart20230505-1-a3mbq7_html_84ad55957e56ebf2.png)
+![image](https://user-images.githubusercontent.com/130965749/236376874-c2fa598e-b0af-4436-9d56-a881e8891edd.png)
 
-S ![](RackMultipart20230505-1-a3mbq7_html_2ca690a975a7b98b.png)
+S ![image](https://user-images.githubusercontent.com/130965749/236376909-98229326-75af-4607-aadb-fd135cdc6e98.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_5a82c739319a4700.png)
+![image](https://user-images.githubusercontent.com/130965749/236376932-bc9ef5d9-1b2f-43cf-a64e-4fcb0ea1c72a.png)
 
 **What is Docker**
 
@@ -1251,7 +1241,7 @@ Overall, Docker provides a powerful set of tools for building, deploying, and ma
 
 **Docker Architecture:**
 
-![](RackMultipart20230505-1-a3mbq7_html_c84e1cbf0750a482.png)
+![image](https://user-images.githubusercontent.com/130965749/236376968-0bff3b4c-1fd6-4340-a71c-93ea8b4dab94.png)
 
 Docker is a tool that helps you run your applications in containers. Containers are like mini-computers that run your applications and keep them isolated from the rest of your system. This way, you can run multiple applications on the same machine without them interfering with each other.
 
@@ -1294,9 +1284,9 @@ A Docker image is a lightweight, stand-alone, and executable package that includ
 
 Docker images are stored in a Docker registry, which is a centralized repository for storing and distributing Docker images. You can either use publicly available images from the Docker Hub registry or create your own images from scratch or based on existing images. The beauty of Docker images is that they are portable, meaning you can run them on any system that has Docker installed, regardless of the underlying operating system or hardware.
 
-![](RackMultipart20230505-1-a3mbq7_html_6348c71acc939180.png)
+![image](https://user-images.githubusercontent.com/130965749/236377002-61e1e4c6-d029-4c6a-b6de-079aa2d3f1f2.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_4229ac1cb6271a56.png)
+![image](https://user-images.githubusercontent.com/130965749/236377099-b1f7480e-7fbe-49a2-b078-19ef719cbd43.png)
 
 **Docker Container:**
 
@@ -1308,7 +1298,7 @@ The advantage of using Docker containers is that they provide a consistent and r
 
 In summary, a Docker container is a running instance of a Docker image, providing a lightweight and isolated environment for the software to run in.
 
-![](RackMultipart20230505-1-a3mbq7_html_55f9c44bfc51f0c9.png)
+![image](https://user-images.githubusercontent.com/130965749/236377215-000cee7a-46ba-4ee2-9c56-439fc0443d2d.png)
 
 **Docker Registry:**
 
@@ -1321,8 +1311,7 @@ Docker registries can either be public, like the Docker Hub registry, or private
 In summary, a Docker registry is a centralized repository for storing and distributing Docker images, allowing users to store, share, and manage their images.
 
 **Docker Installation:**
-
-![](RackMultipart20230505-1-a3mbq7_html_209acf25cad71b5c.png)
+![image](https://user-images.githubusercontent.com/130965749/236377313-b94343a6-bb72-4e83-bfe8-4b816da68e1e.png)
 
 **Install Docker:**
 
@@ -1410,7 +1399,7 @@ newgrp docker
 
 **Nginx on Docker:**
 
-![](RackMultipart20230505-1-a3mbq7_html_22b40709c0da1d13.png)
+![image](https://user-images.githubusercontent.com/130965749/236377480-10d02b89-1a91-44b8-8052-8f3136d8fbf4.png)
 
 docker run --name lms nginx -p 80:80 -d nginx
 
@@ -1444,8 +1433,7 @@ The docker exec -it lms nginx /bin/bash command is used to run a command in a ru
 4. /bin/bash: This is the command you want to run in the container. In this case, you are running the Bash shell in the container, which allows you to access and run commands inside the container.
 
 In simple terms, this command opens a Bash shell in the running Nginx container named "lms nginx", allowing you to interact with the container and run commands inside it.
-
-![](RackMultipart20230505-1-a3mbq7_html_5d00789884e3582.png)
+![image](https://user-images.githubusercontent.com/130965749/236377537-7fb834e3-4343-4d2a-8209-d6d81f4a3148.png)
 
 **Containers are ephemeral (ShortLived)**
 
@@ -1562,7 +1550,7 @@ The first command creates a named volume called pgdata. The second command creat
 
 **What is Docker Compose**
 
-![](RackMultipart20230505-1-a3mbq7_html_7b8ddc5e36107222.png)
+![image](https://user-images.githubusercontent.com/130965749/236377601-d0a7b4b4-9a12-4060-b507-b2870020e68a.png)
 
 Docker Compose is a tool that allows developers/DevOPs to define and run multi-container Docker applications using a YAML file. It provides an easy way to manage and deploy complex applications that require multiple containers to run.
 
@@ -1657,7 +1645,7 @@ Overall, cgroups and Docker work together to provide resource isolation and mana
 
 **Kubernetes :**
 
-![](RackMultipart20230505-1-a3mbq7_html_5318b4467da50057.png)
+![image](https://user-images.githubusercontent.com/130965749/236377695-91923e8a-0813-4b7c-9079-65dcefb50602.png)
 
 Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications.
 
@@ -1672,15 +1660,14 @@ Kubernetes is a popular choice for container orchestration because it offers sev
 5. Easy to deploy: Kubernetes provides a declarative configuration model, allowing you to easily deploy, update, or rollback your application with minimal effort.
 6. Large community support: Kubernetes has a large and active community which provides a wide range of tools, plugins and support for the platform which makes it easy for the developers to work with it.
 
-![](RackMultipart20230505-1-a3mbq7_html_5d8c4178c0cc57cf.png)
+![image](https://user-images.githubusercontent.com/130965749/236377756-21177c3c-a07c-4f89-99bc-751f039878ca.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_f8ee68cd7d43a839.png)
+![image](https://user-images.githubusercontent.com/130965749/236377809-3ca4d662-8767-4143-9889-dfdad70e6637.png)
 
 **Kubernetes Architecture :**
+![image](https://user-images.githubusercontent.com/130965749/236377851-77ec6fb8-92ea-47ff-aa9f-58050622d4be.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_58cec29d6e0d0f95.png)
-
-![](RackMultipart20230505-1-a3mbq7_html_b25c87deaffb7194.png)
+![image](https://user-images.githubusercontent.com/130965749/236377897-26fe27b9-290c-46aa-b5fd-50197a7d57a3.png)
 
 `
 
@@ -1699,8 +1686,7 @@ Kubernetes is a popular choice for container orchestration because it offers sev
 .
 
 **Kubernetes Objects:**
-
-![](RackMultipart20230505-1-a3mbq7_html_c81cd3a08a5efddc.png)
+![image](https://user-images.githubusercontent.com/130965749/236377948-2daa3994-02fc-4d25-a008-c506b824aabe.png)
 
 Kubernetes objects are the basic building blocks of a Kubernetes cluster. They represent the desired state of the cluster and are used to define and manage the resources that make up an application. Some common types of Kubernetes objects include
 
@@ -1715,11 +1701,11 @@ Kubernetes objects are the basic building blocks of a Kubernetes cluster. They r
 
 **Kubernetes Pod :**
 
-![](RackMultipart20230505-1-a3mbq7_html_994c98d8615dc960.png)
+![image](https://user-images.githubusercontent.com/130965749/236377989-c1da1731-bfdd-4fbe-85bc-fb03aa4fc4a3.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_adce0f4d16854c6c.png)
+![image](https://user-images.githubusercontent.com/130965749/236378049-f8b580c4-2ef4-4649-8b2d-d3dcb24a5b19.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_f3dd68b202308730.png)
+![image](https://user-images.githubusercontent.com/130965749/236378092-e85739fa-3d45-49be-8246-56dd184d98ba.png)
 
 #### **YAML for Kubernetes:**
 
@@ -2085,9 +2071,9 @@ In Kubernetes, a service is a way to access one or more pods in a cluster. Servi
 
 Additionally, Kubernetes also provides an ingress resource that allows external traffic to access services within a cluster.
 
-![](RackMultipart20230505-1-a3mbq7_html_6947f6ad0deee537.png)
+![image](https://user-images.githubusercontent.com/130965749/236378187-108a627c-d8d0-4e27-8870-fdd295bf047e.png)
 
-![](RackMultipart20230505-1-a3mbq7_html_f90f0d09eb43d8bd.png)
+![image](https://user-images.githubusercontent.com/130965749/236378239-3b0cd4ca-65b9-4a73-837a-07dae0fe2ca0.png)
 
 **NodePort :**
 

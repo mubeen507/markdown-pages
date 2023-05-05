@@ -586,27 +586,28 @@ If you **prefix**" **sudo**" with any linux command, it will run that command wi
 ## **File Management:**
 
 ### **COPY**
-
+```
 - File
   - cp \<source-file\> \<dest-path\>
 - Directory
   - cp -r \<source-dir\> \<dest-path\>
-
+```
 ### **REMOVE**
-
+```
 - File
   - rm \<source-file\>
 - Directory
   - rm -r \<source-dir\>
-
+```
 **RENAME / MOVE**
-
+```
 - Rename
   - mv \<old-file\> \<new-file-name\>
-
+```
+```
 - Move
   - mv \<old-file\> \<dest-directory\>
-
+```
 **Package Manager:**
 
 In Ubuntu, the default package manager is called "apt" (short for "Advanced Package Tool"). It is a command-line tool used to manage packages on Ubuntu and other Debian-based Linux distributions.

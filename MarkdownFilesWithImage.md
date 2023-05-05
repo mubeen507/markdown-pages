@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/130965749/236374627-8661df04-1060-4a8b-85d2-7de803c71021.png)
 ## **DevOps Core:**
 
-1. Fundamentals of DevOps
+1. Fundamentals of DevOp
 2. Linux
 3. Git, GitHub
 4. Docker

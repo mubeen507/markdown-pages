@@ -500,9 +500,9 @@ In windows based machines it's quite easy to navigate as we have Explorer.
 
 Let's check how you can move around the linux system using CLI.
 
-\> ls /
 
-**pwd -**
+``` ls ```
+ ``` pwd ```
 
 So where are we now ? I mean which directory we are working in now ?
 

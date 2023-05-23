@@ -620,9 +620,9 @@ To use apt, open a terminal window and enter commands using the following syntax
 
 To update the package list:
 
-sudo apt update
+''' sudo apt update '''
 
-sudo apt install package-name
+''' sudo apt install package-name '''
 
 sudo apt install
 
